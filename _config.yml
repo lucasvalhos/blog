@@ -15,6 +15,7 @@ plainwhite:
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   dark_mode: true # set true to add dark mode toggle
+  disqus_shortname: lucasvalhos
 
   # generate social links in footer
   social_links:
