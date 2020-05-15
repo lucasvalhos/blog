@@ -11,7 +11,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Lucas Valhos
-  tagline: Front-end Developer. Salesforce Developer.
+  tagline: Front-end Developer Salesforce Developer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   dark_mode: true # set true to add dark mode toggle
