@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Saleforce - Apex - Ordernar Lista por data"
+title:  "Salesforce - Apex - Ordernar Lista por data"
 date:   2020-05-15 00:57:00 +0300
 categories: Salesforce Apex
 ---
@@ -13,7 +13,7 @@ Estou baseando esse post em algo que aconteceu no meu trabalho do dia a dia onde
 
 Basicamente tínhamos um cliente realizando uma compra de um imóvel sendo que ele realizaria o pagamento de algumas formas diferentes:
 
-![Tabela informativa das séries de pagamento]({{ site.baseurl }}/assets/2020-05-15-saleforce-apex-ordernar-lista-por-data-img.png "abela informativa das séries de pagamento")
+![Tabela informativa das séries de pagamento]({{ site.baseurl }}/assets/2020-05-15-saleforce-apex-ordernar-lista-por-data-img.png "Tabela informativa das séries de pagamento")
 
 Então surgiu a necessidade de apurar qual o intervalo de meses onde o cliente não realizaria nenhum pagamento. Por exemplo, se a entrada é no mês 07/2020 e as parcelas mensais iniciam apenas em 01/2021, temos 5 meses onde não é realizado nenhum pagamento.
 
