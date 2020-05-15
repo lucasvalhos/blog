@@ -78,7 +78,7 @@ dates.add(Date.newInstance(2022,06,15));
 AnyService.findInterval(dates);
 ```
 
-Percebam que as datas estão de totalmente aleatórias e sem nenhuma lineariedade em relação ao tempo.
+Percebam que as datas estão totalmente aleatórias e sem nenhuma lineariedade em relação ao tempo.
 
 Agora vamos aos resultados do log.
 
